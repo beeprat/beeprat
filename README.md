@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![beeprat's GitHub stats](https://github-stats-extended.vercel.app/api?username=beeprat)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **beeprat/beeprat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
